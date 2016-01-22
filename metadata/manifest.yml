@@ -20,7 +20,7 @@ Provides:
 - monit
 Scaling:
   Min: 1
-  Max: -1
+  Max: 1
 Group-Overrides:
 - components:
   - monit-5.8
